@@ -1,0 +1,11 @@
+{
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    // "emmet.triggerExpansionOnTab": true,
+    // "emmet.showSuggestionsAsSnippets": true,
+    // "editor.snippetSuggestions": "top"
+
+}
